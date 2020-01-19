@@ -6,11 +6,10 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-### PUBLISH SETTINGS
 SITEURL = 'https://waydegg.com'
 DELETE_OUTPUT_DIRECTORY = False
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 
-GOOGLE_ANALYTICS = "UA-156477838-1"
+GOOGLE_ANALYTICS = "UA-156431179-1"
 
 CSS_FILE = "bootstrap.simplex.min.css"
